@@ -1,17 +1,13 @@
-﻿# Brewmorphia Speciality Coffee
+﻿# Coastal Café 1976
 
-A responsive static website for Brewmorphia in Mananchira, Kozhikode.
+A responsive multi-page café website concept for Coastal Café 1976 in Palissery, Thalassery.
 
 ## Pages
 
 - `index.html` — Home
-- `menu.html` — Menu
-- `story.html` — Our story
-- `gallery.html` — Café photos
-- `visit.html` — Location and contact
+- `menu.html` — Chaya and Malabar snacks
+- `story.html` — The café and its coastal character
+- `gallery.html` — Café, food, and seaside photos
+- `visit.html` — Address, directions, contact, hours, and reviews
 
-## Publish with GitHub Pages
-
-Upload the contents of this folder to a GitHub repository, then open **Settings → Pages** and choose **Deploy from a branch**, the `main` branch, and the repository root (`/`). The site will be available at `https://YOUR-USERNAME.github.io/REPOSITORY-NAME/` after the Pages build completes.
-
-The site uses relative asset paths and can be hosted from a repository subpath. The supplied photos are in `assets/`.
+The site is static HTML, CSS, and JavaScript. The 18 supplied images are in `coastal-assets/`. It is designed to publish from the root of a GitHub Pages repository.
